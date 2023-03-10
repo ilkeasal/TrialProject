@@ -1,0 +1,11 @@
+name: trial-env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - seaborn=0.12.2
+  - pandas=1.5.3
+  - scipy=1.10.0
+  - matplotlib=3.7.0
+  - numpy=1.23.5
+prefix: /opt/anaconda3/envs/trial-env

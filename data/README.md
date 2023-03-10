@@ -1,0 +1,3 @@
+This folder should have a subfolder called "Pereira" that contains the following:
+- ...
+- (list files downloaded from Pereira resources)
